@@ -1,7 +1,7 @@
 # Title for program: Software Engineering: Assignment 1
 # File Name: Assignment 1.py
 # Programmers: Mercy Jayaraj and Jasmine Davis
-# Email Address: mercyjayaraj@lewisu.edu and jasminedavis@lewisu.edu
+# Email Address: mercyjayaraj@lewisu.edu and jasminesdavis@lewisu.edu
 # Course: Software Engineering -CPSC-44000-LT1
 # Date: February 14, 2025
 # Program Description:
